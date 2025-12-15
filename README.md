@@ -1,3 +1,7 @@
-# test
-한글로 설명 입력하기...
-GitHub 계정에 test Repository 생성완료
+package com.salesforce.basic;
+public class Hello {
+  public static void main(string[] args) {
+    System.out.println("Hello, Java");
+
+  }
+}
